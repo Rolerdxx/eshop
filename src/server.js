@@ -1,6 +1,5 @@
 const http = require("http");
 const mongoose = require("mongoose");
-
 const app = require("./app"); 
 const PORT = 5000;
 
